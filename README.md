@@ -24,6 +24,6 @@ x : 🚪 Exit OS
 💻 Open your terminal  
 📂 Navigate to the directory: cd [path_to_file]  
 ⚡ Run the OS:  
-sh [file_name].sh
+sh [file_name].sh  
 💥 BOOM! Minimalist power is in your hands.
 # Thanks for using my os!
