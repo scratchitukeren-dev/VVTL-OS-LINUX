@@ -2,9 +2,9 @@
 VVTL is a series of **super-minimalist** shell-based OS. ⚡ Developed by scratchitukeren-dev.
 # 📊 Choose Your Version
 I offer **three version** of minimalism to suit your needs:  
-🥉 [Tiny]	**Normal** version of VVTL. Its only 329 bytes!  
-🥈 [VeryTiny]	**Medium** version of VVTL. Its only 301 bytes!  
-🥇 [VeryVeryTiny] This is the **smallest** version! Its only 204 bytes!🏆  
+🥉 [Tiny]	**Normal** version of VVTL. Its only 325 bytes!  
+🥈 [VeryTiny]	**Medium** version of VVTL. Its only 300 bytes!  
+🥇 [VeryVeryTiny] This is the **smallest** version! Its only 205 bytes!🏆  
 ## 📝 Filename
 🥉 [Tiny] = vvtl-tiny.sh  
 🥈 [VeryTiny] = vvtl-verytiny.sh  
