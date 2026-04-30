@@ -9,8 +9,8 @@ I offer **three version** of minimalism to suit your needs:
 🥉 [Tiny] = vvtl-tiny.sh  
 🥈 [VeryTiny] = vvtl-verytiny.sh  
 🥇 [VeryVeryTiny] = vvtl-vvtiny.sh
-[!FUN FACT]
-All versions are smaller than the legendary bootOS (512 bytes)!
+## ⚠️Fun Fact
+All versions are **smaller** than the legendary bootOS (512 bytes)!
 # ⌨️ VVTL Commands
 Type h to see what you can do:
 h / v : 📖 Help & Version Info  
